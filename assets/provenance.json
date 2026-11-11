@@ -1,0 +1,21 @@
+{
+  "asset": "humansightbench-overview.png",
+  "title": "HumanSightBench: A Benchmark for Human Visual Perception in MLLMs",
+  "authors": "Zixin Su et al.",
+  "arxiv_version": "2611.12305v1",
+  "source_url": "https://arxiv.org/pdf/2611.12305v1",
+  "metadata_url": "https://arxiv.org/abs/2611.12305",
+  "source_page": 2,
+  "source_figure": "Figure 1",
+  "source_pdf_sha256": "006b0722a49ba4ab8279f33533580291bee53c58eab63eb7876f36d68d78cb0e",
+  "asset_sha256": "bf4f59581f4eed4257651fe5cd70bbdcbd2843e2840c280843568618e5eb4715",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "license_scope": "The source paper and reproduced figure only; not separate datasets or code.",
+  "transformation": "Rendered and cropped from the source PDF, without redrawing or altering scientific content.",
+  "crop_pdf_points": [68, 74, 546, 248],
+  "crop_origin": "top-left",
+  "render_dpi": 432,
+  "pixel_size": [2868, 1044],
+  "verified_on": "2026-11-11"
+}
